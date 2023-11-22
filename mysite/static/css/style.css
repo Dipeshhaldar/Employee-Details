@@ -1,0 +1,7 @@
+body{
+    background-color: orange;
+}
+
+.card {
+    box-shadow: 2px 2px 2px rgb(87, 83, 83);
+}
